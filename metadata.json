@@ -1,0 +1,6 @@
+{
+  "name": "Vườn Sao Tri Thức 3A5 - Cô Kiều Thị Vân",
+  "description": "Ứng dụng quản lý lớp học, tích sao thi đua, kho trò chơi giáo dục và trợ lý AI thông minh cho lớp 3A5 Trường Tiểu học Ngô Thì Nhậm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
